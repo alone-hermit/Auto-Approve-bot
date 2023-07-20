@@ -58,7 +58,7 @@ async def op(_, m :Message):
                         InlineKeyboardButton("🗯 Channel", url="https://t.me/OFFICIALBOT_UPDATE"),
                         InlineKeyboardButton("💬 Support", url="https://t.me/OFFICIALBOT_SUPPORT")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/SDAutoApproveBot?startgroup")
+                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/miss_Jenniferbot?startgroup")
                     ]
                 ]
             )
@@ -69,7 +69,7 @@ async def op(_, m :Message):
             keyboar = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="https://t.me/SDAutoApproveBot?start=start")
+                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="https://t.me/miss_Jenniferbot?start=start")
                     ]
                 ]
             )
@@ -100,7 +100,7 @@ async def chk(_, cb : CallbackQuery):
                         InlineKeyboardButton("🗯 Channel", url="https://t.me/OFFICIALBOT_UPDATE"),
                         InlineKeyboardButton("💬 Support", url="https://t.me/OFFICIALBOT_SUPPORT")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/SDAutoApproveBot?startgroup")
+                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://t.me/miss_Jenniferbot?startgroup")
                     ]
                 ]
             )
